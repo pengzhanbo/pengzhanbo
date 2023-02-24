@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [🌐 Website](https://pengzhanbo.cn) · [📚 Blog](https://pengzhanbo.cn/blog/) · [📇 Contact](mailto:q942450674@outlook.com) · [💬 Dicsord](https://discord.gg/UJGcxJ9jnj)
 
-![](https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true)
+[![](https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true)](https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true)
