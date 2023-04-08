@@ -27,5 +27,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Linux-★★-FCC624?logo=Linux&style=flat-square)
 ![](https://img.shields.io/badge/Git-★★-F05032?logo=Git&style=flat-square)
 ![](https://img.shields.io/badge/Rust-★-47848F?logo=Rust&style=flat-square)
+ ★★★: Frequently used 
+|★★: Mostly used 
+|★: Rarely used
 
 [![](https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true)](https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true)
