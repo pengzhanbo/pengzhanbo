@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [🌐 Website](https://pengzhanbo.cn) · [📚 Blog](https://pengzhanbo.cn/blog/) · [📇 Contact](mailto:q942450674@outlook.com) · [💬 Dicsord](https://discord.gg/UJGcxJ9jnj)
 
-![](https://img.shields.io/badge/JavaScript-★★★-F7DF1E?logo=JavaScript&style=flat-square)
+<!-- ![](https://img.shields.io/badge/JavaScript-★★★-F7DF1E?logo=JavaScript&style=flat-square)
 ![](https://img.shields.io/badge/TypeScript-★★★-3178C6?logo=TypeScript&style=flat-square)
 ![](https://img.shields.io/badge/CSS-★★★-1572B6?logo=CSS3&style=flat-square)
 ![](https://img.shields.io/badge/NodeJS-★★★-339933?logo=Node.js&style=flat-square)
@@ -30,6 +30,13 @@ Here are some ideas to get you started:
  ★★★: Frequently used 
 |★★: Mostly used 
 |★: Rarely used
+-->
+
+### Tech stack
+![](https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust)
+
+### Tools I use
+![](https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins)
 
 ![](https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8)
