@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi, I'm pengzhanbo 👋
 
+TypeScript enthusiast, Node.js user, Rust & Harmony beginner
+
 [🌐 Website](https://pengzhanbo.cn) · [📚 Blog](https://pengzhanbo.cn/blog/) · [📇 Contact](mailto:q942450674@outlook.com) · [💬 Dicsord](https://discord.gg/UJGcxJ9jnj)
 
 <!-- ![](https://img.shields.io/badge/JavaScript-★★★-F7DF1E?logo=JavaScript&style=flat-square)
