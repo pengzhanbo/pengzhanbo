@@ -38,7 +38,7 @@ TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 ![](https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust)
 
 ### Tools I use
-![](https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins)
+![](https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm)
 
 ![](https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8)
