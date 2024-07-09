@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+pengzhanbo%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+pengzhanbo%F0%9F%91%8B)](https://git.io/typing-svg)
 
 TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 
