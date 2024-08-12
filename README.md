@@ -1,4 +1,10 @@
+<!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+pengzhanbo%F0%9F%91%8B)](https://git.io/typing-svg)
+-->
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+pengzhanbo%F0%9F%91%8B">
+</picture>
 
 TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 
@@ -6,10 +12,12 @@ TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 
 
 ### Tech stack
-![](https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust)
+
+<picture><img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust"></picture>
 
 ### Tools I use
-![](https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm)
+
+<picture><img src="https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm"></picture>
 
 <picture>
   <source
