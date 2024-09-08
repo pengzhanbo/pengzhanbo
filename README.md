@@ -24,20 +24,12 @@ TypeScript enthusiast, Node.js user, Rust & Harmony beginner
     srcset="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img src="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24" />
 </picture>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8&theme=dark"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8" />
 </picture>
