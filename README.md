@@ -21,10 +21,10 @@ TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24&theme=dark&t=1"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24&t=1" />
 </picture>
 <picture>
   <source
