@@ -2,11 +2,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+pengzhanbo%F0%9F%91%8B)](https://git.io/typing-svg)
 -->
 
+<!--
 <picture>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+pengzhanbo%F0%9F%91%8B">
 </picture>
+-->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi,%20I'm%20pengzhanbo&reversal=true&textBg=false&fontSize=64&fontAlignY=30&desc=TypeScript%20enthusiast,%20Node.js%20user,%20Rust%20and%20Harmony%20beginner&descSize=16&descAlignY=50&descAlign=55">
+</picture>
 
-TypeScript enthusiast, Node.js user, Rust & Harmony beginner
+<!-- TypeScript enthusiast, Node.js user, Rust & Harmony beginner -->
 
 [🌐 Website](https://pengzhanbo.cn) · [📚 Blog](https://pengzhanbo.cn/blog/) · [📇 Contact](mailto:q942450674@outlook.com) · [💬 Dicsord](https://discord.gg/UJGcxJ9jnj)
 
