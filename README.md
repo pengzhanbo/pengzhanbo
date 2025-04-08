@@ -39,6 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8" />
 </picture>
 
+<!--
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=pengzhanbo&margin-w=8&margin-h=8&column=7&row=1&no-frame=true&theme=algolia"
@@ -46,3 +47,4 @@
   />
   <img src="https://github-profile-trophy.vercel.app/?username=pengzhanbo&margin-w=8&margin-h=8&column=7&row=1&no-frame=true&theme=light" />
 </picture>
+-->
