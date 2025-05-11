@@ -15,7 +15,13 @@
 
 [🌐 Website](https://pengzhanbo.cn) · [📚 Blog](https://pengzhanbo.cn/blog/) · [📇 Contact](mailto:q942450674@outlook.com) · [💬 Dicsord](https://discord.gg/UJGcxJ9jnj)
 
-<picture><img src="https://api.pengzhanbo.cn/github/views/pengzhanbo?t=2"></picture>
+<picture>
+  <source
+    srcset="https://api.pengzhanbo.cn/github/views/pengzhanbo?theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://api.pengzhanbo.cn/github/views/pengzhanbo" />
+</picture>
 
 ### Tech stack
 
