@@ -13,7 +13,7 @@
 
 <!-- TypeScript enthusiast, Node.js user, Rust & Harmony beginner -->
 
-[🌐 Website](https://pengzhanbo.cn) · [📚 Blog](https://pengzhanbo.cn/blog/) · [📇 Contact](mailto:q942450674@outlook.com) · [💬 Dicsord](https://discord.gg/UJGcxJ9jnj)
+[🌐 Website](https://pengzhanbo.cn) · [📚 Blog](https://pengzhanbo.cn/blog/) · [📇 Contact](mailto:hi@pengzhanbo.cn) · [💬 Dicsord](https://discord.gg/UJGcxJ9jnj)
 
 <picture>
   <source
