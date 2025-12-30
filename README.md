@@ -33,6 +33,21 @@
 
 <picture>
   <source
+    srcset="./profile/stats-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="./profile/stats-light.svg" />
+</picture>
+<picture>
+  <source
+    srcset="./profile/top-langs-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="./profile/top-langs-light.svg" />
+</picture>
+
+<!-- <picture>
+  <source
     srcset="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24&theme=dark&t=1"
     media="(prefers-color-scheme: dark)"
   />
@@ -44,7 +59,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8" />
-</picture>
+</picture> -->
 
 <!--
 <picture>
