@@ -140,7 +140,7 @@
           data-testid="lang-progress"
           x="143.65"
           y="0"
-          width="33.21"
+          width="33.22"
           height="8"
           fill="#41b883"
         />
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="176.86"
+          x="176.87"
           y="0"
           width="27.04"
           height="8"
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="203.9"
+          x="203.91"
           y="0"
           width="15.19"
           height="8"
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="219.09"
+          x="219.1"
           y="0"
           width="14.48"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.57"
+          x="233.57999999999998"
           y="0"
           width="10.55"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.12"
+          x="244.13"
           y="0"
           width="14.84"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.96"
+          x="248.97"
           y="0"
           width="11.03"
           height="8"
@@ -218,7 +218,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 13.28%
+        Vue 13.29%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
