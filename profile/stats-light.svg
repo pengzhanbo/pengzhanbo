@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">pengzhanbo&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 973, Total Commits  (last year) : 2130, Total PRs: 648, Total Issues: 118, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 973, Total Commits  (last year) : 2137, Total PRs: 649, Total Issues: 118, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 6.686811902097848;
+        stroke-dashoffset: 6.684509994184287;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >648</text>
+      >649</text>
     </g>
   </g><g transform="translate(0, 72)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
